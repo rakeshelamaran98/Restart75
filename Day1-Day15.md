@@ -102,3 +102,56 @@ However, the flip side is that acquiring these specific IOCs forces the adversar
 ✅ Solved Appointment Machine in Hack The Box - Simple Sql Injection 
 ✅ Completed KQL Advanced Queries Room in TryHackMe 
 
+
+# DAY 11
+
+Sensitive Information Disclosure!! root:redacted
+
+✅ Completed Internal Room in TryHackMe
+✅ Worked on updating my personal website for sometime
+✅ Applied to Few Jobs - Yes, i am open to work in UK - Will Write a detailed post soon.
+
+# DAY 12
+
+Most vulnerabilities don’t come from complex exploits. They come from missed checks, insecure logic, or assumptions in code. Reviewing early can save you from real vulnerabilities that could be exploited later. Because code review isn’t optional, it’s essential.
+
+✅ Completed Penetration Testing Process Module in Hack The Box
+✅ Completed Slingshot Room in TryHackMe
+✅ Also, enrolled in a few new courses
+✅ Check out this awesome video walkthrough of identifying JavaScript vulnerabilities, well explained with examples in a quiz format. 
+
+https://lnkd.in/gi9_yqqS
+
+# DAY 13
+
+Did you know?
+
+ISO was established in 1947 and is recognized worldwide by corporations, governments, and consumers. ISO comprises NSB(National Standardization Bodies ) from over 160 member countries. ISO Standards often serve as a basis for legal or regulatory requirements and procurement processes. 
+
+✅ Learnt about the Background and history of ISO. 
+✅ Completed Itsybitsy room in TryHackMe - Investigated an alert by IDS regarding a potential C2 communication.
+✅ Wrote a new Blog on OWASP Top 10 2025, what's changed, and my thoughts on the updates. Read it here 👇 
+
+https://lnkd.in/gaWUHASB
+
+# DAY 14
+
+THM{NO_SHORTCUTS_IN_LIFE} - While I was solving Persistence labs, I came across this flag. A reminder that, whether it’s cybersecurity or personal growth, there really are no shortcuts in life. You’ve got to understand the process, and Persistence is the Key!!!
+
+✅Learnt about different persistence methods attackers use to maintain access in a compromised system. Explored techniques like Backdooring files, Hijacking file associations, shortcut files, creating or modifying services 
+✅Understood how these methods can be abused to run commands or maintain control silently. This was part of a TryHackMe exercise. 
+✅ Learnt about the Accreditation and Certification - their Importance and Key Differences in ISO.
+
+# DAY 15
+
+Did you know?
+
+An ISO certification follows a 3-year continuous improvement cycle, and then repeats.
+
+Year 1: Initial Certification Audit (2 stages)
+Year 2: First Surveillance Audit
+Year 3: Second Surveillance Audit
+
+✅ Completed Payment Collectors Room in TryHackMe - Another log analysis challenge using Elastic Stack.
+✅Learnt about Multi-Audit Cycles in ISO Certifications.
+✅Read a few infosec Write-ups
