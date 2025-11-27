@@ -82,3 +82,42 @@ I will write a blog soon about this exam.
 ✅Applied for a few cybersecurity roles today - I am open to work
 
 If you come across any associate/Mid-Level roles in Security Engineering, Penetration Testing or Application Security, I’d be grateful if you could consider or refer me.
+
+# DAY 23
+
+Cyber in the West Midlands is entering a new era. It’s been a while since I attended a cybersecurity event — feels good to be back on track again ❤️ 
+
+What an incredible evening at the official launch of the West Midlands Cyber Hub at Millennium Point, Birmingham. Brilliant minds, inspiring conversations, and a community that genuinely wants to build something bigger for the West Midlands 🌟 The region has always had talent and capability — and this hub finally brings the attention and opportunities to match 🚀 
+
+Bridgette Bigmore from UK Telecoms Lab (UKTL) led the ribbon-cutting, and we had a great conversation about the exciting work happening at UKTL.
+
+Wayne Horkan opened the event by walking us through the journey so far. Incredible Work! Kudos for all the Efforts 👏 It was great reconnecting with Stuart Stanton and Chris Woods after a year.
+
+Looking forward to exploring how I can collaborate with the team on upcoming events and initiatives. Do Checkout https://lnkd.in/gANsYwqy
+
+We also heard inspiring perspectives from partners including Innovation Alliance for the West Midlands, Midlands Cyber The Cyber Resilience Centre for West Midlands Aston University Aston University Cyber Security Innovation Research Centre TechWM
+
+Rebecca Robinson Ryan Protheroe Andy Horkan Gosia Dzierdzikowska Michelle Ohren MA 
+
+# DAY 24
+
+✅Completed the SOC Level 1 Alert Reporting room on TryHackMe 
+✅Learnt about Determining the Scope in ISO 27001:2022 - Enterprise Wide and Product Scope, avoiding common pitfalls
+✅Continued Applying for Jobs - I am open to Work
+
+# DAY 25
+
+Did you know?
+Developing a Risk Treatment Plan is one of the most critical steps in the Risk Assessment process. It's where you decide how to handle identified risks using the four key approaches - Accept, Mitigate, Transfer and Avoid.
+
+✅Learnt about Executing Risk Assessment in ISO 27001 - Six-step process and the documentation required at each stage.
+✅Completed the Network Fundamentals course on LetsDefend - A quick refresher on my favourite topic.
+✅Read a few Infosec write-ups.
+
+
+# DAY 26
+Did you know? SOA?
+
+Statement of Applicability(SOA) in ISO 27001 states what controls and policies are being applied by the organisation. It is an integral part of the mandatory ISO 27001 documentation that needs to be presented to an external auditor when the ISMS is undergoing an independent audit.
+✅ Completed Python for Pentesters room in TryHackMe -  This room covers real examples of Python scripts, including hash cracking, key logging, enumeration and scanning.
+✅Learnt about the Statement of Applicability(SOA) in ISO 27001 and common pitfalls to avoid during the audit.
