@@ -121,3 +121,10 @@ Did you know? SOA?
 Statement of Applicability(SOA) in ISO 27001 states what controls and policies are being applied by the organisation. It is an integral part of the mandatory ISO 27001 documentation that needs to be presented to an external auditor when the ISMS is undergoing an independent audit.
 ✅ Completed Python for Pentesters room in TryHackMe -  This room covers real examples of Python scripts, including hash cracking, key logging, enumeration and scanning.
 ✅Learnt about the Statement of Applicability(SOA) in ISO 27001 and common pitfalls to avoid during the audit.
+
+# DAY 27
+
+✅Completed Security Audit and Testing Course in LetsDefend
+✅Learnt about Planning and Executing Internal Audits, key actionable steps, and the common pitfalls to avoid during an ISO 27001 audit cycle.
+✅Applied for a few cybersecurity roles today - I am open to work and exploring opportunities in Security Engineering, Penetration Testing or Application Security. I’d be grateful if you could consider or refer me.
+
