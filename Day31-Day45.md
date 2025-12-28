@@ -1,3 +1,100 @@
+# DAY31
+
+So far in my cybersecurity career, I’ve always focused on the technical side of things. Stepping out of my comfort zone to learn about GRC (Governance, Risk, and Compliance) was something new. It turned out to be really interesting to see how things work at a high level 🚀 
+
+Happy to share that I’ve successfully completed the ISO 27001:2022 Lead Auditor Course from Mastermind . This course is still available for free! Comment “Audit” and I’ll DM you the link. 
+
+Over the past few weeks, I’ve been learning through this course, which gave me a structured understanding of how to plan, conduct, and report internal audits within an Information Security Management System (ISMS).
+
+This Course Covers:
+ • The Basics of ISO 27001 & ISMS
+ • Implementing and Managing the ISMS
+ • Planning & Executing Audits
+ • How to write an Audit Report
+ • Common Pitfalls and Audit Best Practices, etc...
+
+Thanks a lot for this amazing course! David Forman 🧠 Mastermind I really liked the tips included at the end of each chapter 🌟 
+
+# DAY32
+
+The message comes from King Malhare, the jealous ruler of HopSec Island, who’s tired of Easter being forgotten. He’s sent his Bandit Bunnies to attack TBFC’s systems and turn Christmas into his new holiday, EAST-mas.
+
+- TryHackMe Advent of Cyber Just Got More Interesting!!! 
+- ✅Completed Advent of Cyber Day 3 Challenge - Splunk Basics
+
+- I’ve been learning Splunk and log analysis recently, and this challenge helped me recap and apply those concepts faster.
+
+- Learning Objectives Met 👇 
+- Ingest and interpret custom log data in Splunk
+- Create and apply custom field extractions
+- Use Search Processing Language (SPL) to filter and refine search results
+- Conduct an investigation within Splunk to uncover key insights
+
+# DAY33
+
+I have got 5 tickets after completing 5Days of Advent of Cyber challenge in TryHackMe
+
+- ✅Completed Advent of Cyber Day 4 Challenge - AI In Security 
+- Very Easy Room, I Liked the Explanation about the Boom of AI Assistants. 
+- ✅Completed Advent of Cyber Day 5 Challenge - Santa's Little IDOR
+- Easy Room to play around with IDOR, bonus tasks were Interesting to complete.
+
+Learning Objectives Met 👇 TryHackMe
+Using an AI assistant to solve various tasks within cybersecurity
+Exploit IDOR to perform horizontal privilege escalation
+
+
+# DAY34
+
+Did you know? Each user has their own Startup folder under their profile, and there is also a global Startup folder that affects all users in windows.
+
+- ✅Learnt about Startup Folders in Windows - An attacker can gain persistence simply by dropping a malicious executable into these locations so it is launched on every logon.
+
+- Advent of Cyber Day 6 in TryHackMe
+Who Send emails at 3 AM? Why is Elf McClause working at 3AM?" Screams a member of the SOC team in the background. They're right, something is amiss. 
+
+- ✅Completed Advent of Cyber Day 6 Challenge - Egg-xecutable
+- ✅Got to know the principles of malware analysis 
+- ✅Hands-on usage of PeStudio, ProcMon, Regshot tools 
+
+# DAY35
+
+- ✅Learnt about Run / RunOnce registry keys - Registry-based autoruns in Windows.
+
+- Entries under Run are executed on every logon, whereas RunOnce entries are executed only a single time. Attackers can point these keys to their payload, often stored in a common directory like C:\Windows\ to achieve stealthy persistence. 
+
+- Advent of Cyber Day 7 in TryHackMe 
+- ✅Completed Advent of Cyber Day 7 Challenge - Scan-ta Clause
+- Another very easy room found a way back into tbfc-devqa01 using network discovery techniques, obtained the secret keys, and restored the server. 
+
+https://lnkd.in/evmTu-uv - THM{4ll_s3rvice5_d1sc0vered} !
+
+
+# DAY36
+
+Did you know? Win-Logon Abuse!
+
+Winlogon will run what’s in Userinit and Shell after authentication as part of loading the user’s environment. Replacing these values with a malicious executable or appending extra commands (by commas) can break the logon sequence. With this, the normal executables still run, plus the attacker’s payload.
+
+- ✅Learnt about Permissions Management and Process Management on Windows.
+
+- Advent of Cyber Day 8 in TryHackMe
+✅Completed Advent of Cyber Day 8 Challenge - Prompt Injection - Sched-yule conflict! Easy room Exploited an AI Agent to reveal the token and modified the calendar back to Christmas. 
+
+https://lnkd.in/ekhpEi-z - XMAS IS COMING!
+
+# DAY37
+
+Breaking through Login With Sticky Keys?
+
+- ✅Learnt about how Windows accessibility features like Sticky Keys and Utilman can be abused to gain elevated access. I never knew this before, Windows built-in features can be abused like this was quite surprising!!
+- ✅Got to know about persisting through existing services - Using Webshells and MSSQL. 
+- ✅Finally managed to Complete Windows Local Persistence room in TryHackMe - This Room is Insane, and honestly it tested my patience especially with the remote machine constantly disconnecting. 
+
+But it was absolutely worth it. Spent a lot of time on it, learned a lot about Windows attacks, abusing windows services, persistence techniques, and how different features can be exploited.
+
+Room Link: https://lnkd.in/eab327Yz
+
 # DAY38
 
 - ✅Learnt about Enterprise Environment Overview in Red Teaming.
