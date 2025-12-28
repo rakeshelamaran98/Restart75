@@ -1,3 +1,43 @@
+# DAY38
+
+- ✅Learnt about Enterprise Environment Overview in Red Teaming.
+- ✅Completed Advent of Cyber Day 9,10,11 in TryHackMe
+- Day 9 Challenge - Passwords - Very Easy room to play around with john, hashcat, and other tools
+- Day 10 Challenge - SOC Alert Triaging - Easy Room Explored Microsoft Sentinel to review and analyze alerts.
+- Day 11 Challenge - Merry XXSMas - Very Easy Room about Reflected and Stored Xss Exploitation and Prevention 
+
+✅ Applied to a Few Jobs, continuing my job search journey!
+
+I’m currently looking for full-time positions(Application Security Roles) in the UK. If your company is hiring, or if you can connect me with someone, I’d greatly appreciate it.
+
+
+# DAY39
+
+🎄This vacation season — Don’t fall for the phishing trap! 
+THM{Impersonation-is-areal-thing-keepIt} - Practice AOC Phishing room in TryHackMe
+
+- ✅Completed Advent of Cyber Day 12 Challenge - Easy Room task focused on triaging the emails, separating spam from phishing, identifying key signals, and getting the flags. 
+- ✅Explored the Foundations of Log Analysis - Types of Logs, Format, TimeStamps, and Retention Policies
+- ✅Learnt about the Basics of Active Directory and AD Objects.
+
+Room Link: https://lnkd.in/eyufNg-w
+
+# DAY40
+
+This weekend was completely taken over by Security BSides London, and what an experience it was 🤩 
+As a master’s graduate in the UK looking for job opportunities, I found events like this invaluable. Especially for networking, I got to interact with companies and professionals, shared my job search experiences, felt motivated, and even discovered a few vacancies I can apply for 🚀 
+Last year, when I attended my first BSides London, I wanted to come back every year. This time, the energy was incredible. So many passionate people, structured tracks, and influential speakers. It’s honestly hard to pick which talks to attend!
+
+Some highlights:
+👇 Ashu Savani (TryHackMe Co-Founder) – Got a photo with him and attended his talk on 5 Gaps Exposed in Real-world Tabletop Exercises. Truly inspiring how impactful a talk can be.
+👇 Alex Olsen – One of my favorite creators, who broke down Anyone Can Hack APIs and demonstrated real-time hacking in applications.
+👇 Attended several talks in between and in the rookie track as well. Huge shoutout to all presenters, you did a fantastic job!
+👇 Enjoyed all the Villages, especially Car Hacking and OT/SCADA🏎️ 
+
+Already manifesting myself as a speaker for next year’s conference! Big thanks to all the Security BSides London sponsors, organizers, speakers, and volunteers for making the event such a grand success.
+And of course, it was amazing to catch up with old friends and make new ones along the way. I ended the day seeing the Christmas lights on Regent Street 🎄🌟 
+I’m currently looking for full-time positions in the UK as a Security Engineer, Senior Security Engineer, Penetration Tester, and Security Consultant (Product Security, Application Security, Red Teaming). If your company is hiring or you can connect me with someone, I’d greatly appreciate it.
+
 # DAY41
 
 - ✅Completed Advent of Cyber Day 13,14,15 in TryHackMe
