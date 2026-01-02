@@ -124,7 +124,50 @@ Statement of Applicability(SOA) in ISO 27001 states what controls and policies a
 
 # DAY 27
 
-✅Completed Security Audit and Testing Course in LetsDefend
-✅Learnt about Planning and Executing Internal Audits, key actionable steps, and the common pitfalls to avoid during an ISO 27001 audit cycle.
-✅Applied for a few cybersecurity roles today - I am open to work and exploring opportunities in Security Engineering, Penetration Testing or Application Security. I’d be grateful if you could consider or refer me.
+- ✅Completed Security Audit and Testing Course in LetsDefend
+- ✅Learnt about Planning and Executing Internal Audits, key actionable steps, and the common pitfalls to avoid during an ISO 27001 audit cycle.
+- ✅Applied for a few cybersecurity roles today - I am open to work and exploring opportunities in Security Engineering, Penetration Testing or Application Security. I’d be grateful if you could consider or refer me.
+
+# DAY 28
+
+Did You Know? What are the Roles in the Audit Team?
+Lead Auditor - Auditor - Technical Expert - Observer. 
+
+- ✅Learnt about Overview of ISO 17021, ISO 27006, IAF Mandatory Documents
+- ✅Learnt about Audit Team Roles and their Competence.
+- ✅Read a few Infosec write-ups
+
+# DAY 29
+
+- ✅Continued Learning about the ISO 27001 - Application Review, Building an Audit Program, and Developing an Audit Plan.
+- ✅Excited to Start the Advent of Cyber 2025 Challenge in TryHackMe from Today.
+
+If you don't know what's AOC is? 
+
+Advent of Cyber is your free, beginner-friendly gateway into cybersecurity!
+Each day leading up to Christmas unlocks a brand-new beginner-friendly challenge where you learn, investigate, and outsmart King Malhare's chaotic holiday schemes. Dive into free daily tasks, guided learning, and videos from your favorite creators - making cybersecurity fun, hands-on, and seriously festive.
+
+Join the Challenge here https://lnkd.in/gwsHGNb4
+
+And with over $150,000! worth of prizes up for grabs, you have every reason to get involved in the fun! - TryHackMe
+
+# DAY 30
+
+HARD DAYS - Some days, I don’t feel like learning or posting here on LinkedIn, especially when you’re working part-time, feeling exhausted, or sick. But whenever we think about slowing down, the universe always finds a way to send us a sign to keep going.
+
+Today, while solving in TryHackMe challenge, I got this reminder:
+🫵 152 days in a row? That’s some serious commitment. Yes — I haven’t missed a single day of learning on TryHackMe for the last five months.
+🫵 Seeing my friends Yash Gorasiya and Siddhesh Patil begin their learning journeys reminds me of why I started mine. It pushes me to stay consistent!
+🫵 Just like that — I’m writing my Day 30 of hashtag#Restart75 Challenge.
+
+The unthinkable has happened - McSkidy has been kidnapped. Without her, Wareville’s defenses are faltering, and Christmas itself hangs by a thread. But panic won’t save the season. I started my AOC challenge in TryHackMe
+
+✅Completed Advent of Cyber Day 1 Challenge - Linux CLI
+✅Completed Advent of Cyber Day 2 Challenge - Merry Clickmas 
+
+Both of them are very easy ones. Start Today! Don't Miss to Rescue McSkidy 👀 
+
+I am open to work in the United Kingdom. If you come across any associate/Mid-Level roles in Security Engineering, Penetration Testing, or Application Security, I’d be grateful if you could consider or refer me.
+
+
 
