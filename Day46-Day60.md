@@ -15,9 +15,16 @@ Key Takeaways:
 
 # DAY47
 
+Initial access is only the beginning!!!
+
+What really matters is how attackers move laterally and maintain persistence once they’re inside 🤯 
+
+Lateral movement and persistence are key post-exploitation phases. After gaining access, attackers focus on moving through the network, reaching valuable assets, and maintaining control even after reboots or account changes.
 
 
-
+- ✅ Spent time learning about lateral movement and persistence, looking at how attackers hop between systems and keep access longer than expected.
+- ✅ Explored the basics of detection engineering using Sigma, KQL, SPL, and custom queries.
+- ✅ Completed the MITRE ATT&CK Framework course on LetsDefend. - It helped me better understand attacker TTPs, how to map real activity to ATT&CK, and why the framework is so useful for detection, incident response, and threat intelligence.
 
 # DAY48
 
