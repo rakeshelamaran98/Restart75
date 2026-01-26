@@ -35,3 +35,16 @@ Lateral movement and persistence are key post-exploitation phases. After gaining
 
 
 # DAY50
+
+
+
+# DAY55
+
+Ever come across this standard before? I hadn’t, until today.
+
+Open Vulnerability Assessment Language (OVAL) is a publicly available information security international standard used to evaluate and detail the system's current state and issues - https://oval.mitre.org/ 
+
+- ✅Completed the Vulnerability Assessment module on Hack The Box
+- ✅Learnt about OVAL Standard and four core OVAL classes - Vulnerability | Compliance | Inventory | Patch
+- ✅Explored OpenVAS and Nessus tools - initiating scans, understanding scan configurations, and analysing results. 
+- ✅Applied for a few cybersecurity roles today - I am open to work and exploring opportunities in Offensive Security, Penetration Testing, or Application Security. I’d appreciate any consideration or referrals.
