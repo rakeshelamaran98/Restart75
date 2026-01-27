@@ -28,14 +28,108 @@ Lateral movement and persistence are key post-exploitation phases. After gaining
 
 # DAY48
 
+This is why JWT validation matters🙂
+👇If alg: none is accepted, attackers can forge JWTs and claim arbitrary users without a valid signature. 
+
+- ✅Learnt about JWT signature validation mistakes and business logic issues while generating Authentication token.
+- ✅Explored about the types of API documentation(Refer the image), and importance of good documentation.
+- ✅Reviewed an end-to-end threat hunting case study covering phishing, lateral movement, and data exfiltration.
+- ✅Continued progressing with my job search, applied for few roles today. 
+
+I am open to work and looking for opportunities in Security Engineering, Penetration Testing, and Application Security. I’d appreciate any consideration or referrals.
 
 
 # DAY49
 
+Back to where it started ✅ 
 
+Over the weekend, I had the opportunity to deliver an online session on AI Security.
+
+This one was special ❤️
+
+It was my 52nd talk, and getting back to public speaking after a year felt good, especially doing it at my own college, Sri Venkateswara College of Engineering. Walking back into that space, speaking to students who are where I once was, brought back a lot of memories.
+
+The session focused on AI Security basics, the risks we often overlook, Careers in AI, and why security needs to grow alongside innovation. 
+
+Grateful to Jeyaprabha T J Mam, Electronics and Communication Engineering, SVCE , IETE SF SVCE and everyone involved for the opportunity.
+
+For those who don’t know, I’m open to delivering talks, workshops, and webinars, online(India) and offline across the UK, on topics around cybersecurity. Happy to connect if you’d like to collaborate or organise a session 😄 
+
+Department of CSE, Sri Venkateswara College of Engineering, SVCE Alumni Association, Sri Venkateswara College of Engineering (AASVCE) Rootecstak
 
 # DAY50
 
+Halfway through Restart75, and this felt like the right moment to share this! 
+
+I’ve officially completed my Master’s in Cyber Security Engineering (with Merit) from the University of Warwick WMG, University of Warwick — a major milestone that marks the end of an important chapter in my career ❤️ 
+
+### What's Next?
+I’m currently exploring Full Time opportunities In United Kingdom across roles in Offensive Security, Security Engineer, Penetration Tester, Security Consultant, including roles focused on Automotive Cybersecurity. I bring 5 years of hands-on experience in Application Security/Pentesting. 
+
+I believe my background in application security and security engineering could add value to your team. I’d be glad to connect and discuss. 
+
+As part of my MSc Dissertation, I designed and implemented a lightweight hybrid Intrusion Detection System (IDS) for connected vehicles.
+
+Throughout My Msc, I worked across areas including Penetration Testing, Network Security, Applied Cryptography, Automotive Cyber Security, Digital Forensics, Cyber Security Research Methods, Proactive Cyber Security, and Risk & Governance.
+
+The last 50 days of My Restart75 Journey have been about consistency, revisiting fundamentals, doing hands-on work, sharing learnings, and staying disciplined through the job search. Not every day was easy, but trying my best. 
+
+On to the next 25 Crucial Days🚀
+
+# DAY51
+
+First certificate of 2026 - #1 of many to come 🚀 
+
+I’m excited to share that I’ve officially passed the APIsec Certified Practitioner exam from APIsec University! 🎉 
+
+This certification required completing five core API security courses:
+✅ API Security Fundamentals 
+✅OWASP API Security Top 10
+✅API Authentication
+✅API Documentation Best Practices 
+✅Securing API Servers
+
+These five courses are free, but not the certification. Comment “API” if you’d like the links.
+
+Working through these areas was a strong reminder that most API security issues come from design gaps, weak validation, and incorrect assumptions, rather than complex exploits, and APIs often go unnoticed during penetration testing. 
+
+https://lnkd.in/efQEvifY
+
+Thanks to Dan Barahona, APIsec University Jess Freeman, and all the instructors for creating such a practical and high-impact course that helps professionals build real-world API security skills in an ever-evolving threat landscape.
+
+I am looking forward to applying these learnings to strengthen security in real-world applications 😄 
+
+# DAY52
+
+From a red teamer’s perspective, Active Directory attacks are challenging because they often rely on chaining permissions, credentials, and trust relationships, rather than exploiting a single, clear vulnerability. 
+
+As someone getting started with red teaming, this reinforced the importance of learning the fundamentals.
+
+✅ Learnt about the Active Directory kill chain and how attackers move step by step after initial access by enumerating users, groups, privileges, and trust relationships.
+✅ Used PowerView for AD enumeration - Identifying the current domain, domain controllers, users, groups, and ACLs.
+✅ Explored credential dumping techniques using Mimikatz, PowerShell scripts, and WMI, further leading to lateral movement.
+✅ Continued applying for Offensive Security / Pentesting roles. 
+
+I’m currently open to full-time opportunities in the United Kingdom. 
+
+# DAY53
+
+In Red Teaming, Getting Initial access is fine. The real work starts with privilege escalation 🫡 ❗ 
+
+- ✅Explored local privilege escalation paths and admin-level reconnaissance to understand how attackers expand control after initial access.
+- ✅Worked with PowerUp to identify common misconfigurations that can be abused to gain elevated privileges.
+- ✅Looked into Invoke-UserHunter to see where high-privileged users are logged in and how attackers use this information for lateral movement.
+
+# DAY54
+
+200 DAYS STREAK ON TryHackMe. Hit My Personal Milestone and staying consistent every single day:) 🚀 
+
+After spending the last few days deep in Active Directory and red team workflows, I wanted to shift back to application security to revisit the fundamentals.
+
+Lately:
+- ✅ Completed the JWT Security room - Revisited how weak signature validation, algorithm confusion, and other token configurations completely break authentication.
+- ✅ Completed the SSRF room - Revisited how server-side trust can be abused to access internal services and sensitive resources.
+- ✅ Completed the File Inclusion & Path Traversal room - reminding me that /etc/passwd is still worth checking.
 
 
 # DAY55
