@@ -142,3 +142,21 @@ Open Vulnerability Assessment Language (OVAL) is a publicly available informatio
 - ✅Learnt about OVAL Standard and four core OVAL classes - Vulnerability | Compliance | Inventory | Patch
 - ✅Explored OpenVAS and Nessus tools - initiating scans, understanding scan configurations, and analysing results. 
 - ✅Applied for a few cybersecurity roles today - I am open to work and exploring opportunities in Offensive Security, Penetration Testing, or Application Security. I’d appreciate any consideration or referrals.
+
+
+
+
+# DAY59
+
+Did you know? Security Controls Fail Silently.. 
+
+Here is why organisations should validate the controls 👇 
+
+✅ I watched a session on Breach and Attack Simulation Tests (BAS) by AttackIQ, X Resilience and it gave me good clarity on how BAS fits into modern security validation.
+
+🖇️FYI: https://lnkd.in/e2wNvyEh
+
+✅Looked at how BAS tests work in AttackIQ using threat research patterns, recommendations, and structured attack scenarios.
+
+✅Learnt about different test types - Baseline tests and Adversary emulation tests.
+
