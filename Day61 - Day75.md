@@ -78,3 +78,26 @@ Key takeaways:
 I am open to work and exploring opportunities in Offensive Security, Penetration Testing, or Application Security.
 
 I’d appreciate any consideration or referrals
+
+
+# DAY 66
+
+
+
+
+
+# DAY 67
+
+
+
+
+# DAY 68
+
+
+
+# DAY 69
+
+
+
+
+# DAY 70
