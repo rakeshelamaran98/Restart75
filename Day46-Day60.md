@@ -160,3 +160,17 @@ Here is why organisations should validate the controls 👇
 
 ✅Learnt about different test types - Baseline tests and Adversary emulation tests.
 
+
+# DAY60
+
+Can you identify which step belongs to which Cyber Kill Chain?
+
+✅ Learnt the Cyber Kill Chain and how attackers progress step by step through an environment.
+✅ Explored Red Team Objectives and Value Proposition.
+✅ Also Continued applying for full-time cybersecurity roles, staying consistent with the job search while exploring offensive security.
+
+I’m open to opportunities in the UK across Offensive Security, Penetration Testing, and Application Security, and would appreciate any consideration or referrals
+
+
+
+
