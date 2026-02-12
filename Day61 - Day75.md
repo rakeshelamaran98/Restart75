@@ -28,3 +28,53 @@ Key Takeaway:
 
 Onto the next one 🚀
 
+# DAY 63
+
+Deeper you do the reconnaissance, more attack surface you uncover - Leads to finding more vulnerabilities 🐞 
+
+- ✅ Completed the Information Gathering – Web Edition module on Hack The Box
+
+Key takeaways:
+- ✅ Whois, DNS and Subdomain Enumeration.
+- ✅ Subdomain Bruteforcing and Virtual Hosts.
+- ✅ Fingerprinting, Crawling and Discovery.
+- ✅ Search Engine, Google Dorks and Web Archive Discovery.
+
+# DAY 64
+
+Do you know what LOLBins are? - Save this for your interview Prep!
+
+LOLBins (Living off the Land binaries) are legitimate system tools that attackers abuse to perform actions beyond their original purpose. 
+
+There are currently two websites that aggregate information on Living off the Land binaries(Check Pinned Comment). 
+
+What Attackers do?
+- 👉 Use legitimate tools and features already present in the target's environment. 
+- 👉Leverage Trusted utilities to avoid detection, they are considered safe and commonly used within the network.
+- 👉LOTL risks are more successful than virus attacks and are growing increasingly widespread. 
+- 👉WMI, PowerShell, Mimikatz are frequent LOTL attack vectors.
+
+- ✅Learnt how LOLBins are abused across different attack stages
+- ✅Explored common tools and techniques attackers rely on
+
+Have you heard of this attack? How do you detect and prevent this attack?
+
+# DAY 65
+
+Did you know? 
+
+File transfer during an attack often relies on legitimate built-in tools rather than obvious malware!🔺 
+
+- ✅Completed File Transfers module on Hack The Box
+- ✅Completed Red Team Recon Room in TryHackMe
+- ✅Applied for a few cybersecurity roles today.
+
+Key takeaways:
+- 👉Windows, Linux and Miscellaneous File Transfer Methods
+- 👉Transferring Files with Code and Living off the Land (LOTL)
+- 👉Protected File Transfers and Catching Files over HTTP/S
+- 👉Active and Passive reconnaissance using various methods.
+
+I am open to work and exploring opportunities in Offensive Security, Penetration Testing, or Application Security.
+
+I’d appreciate any consideration or referrals
