@@ -6,6 +6,4 @@ Hey, I am Rakesh Elamaran.
 - I am open to work - I’ve recently completed my Master’s in CyberSecurity Engineering from the University of Warwick. I am actively preparing for interviews and applying for roles in Security Engineering, Application Security, and Penetration Testing in the United Kingdom.
 - For More Details: https://www.linkedin.com/in/rakeshelamaran/
 
-- I have Completed 45Days of my Challenge already. Feel Free to check out my learnings here, https://github.com/rakeshelamaran98/Restart75/
-
-- AND I am Excited for the Next 30Days!!
+- I have Completed 75Days of my Challenge already. Feel Free to check out my learnings here, https://github.com/rakeshelamaran98/Restart75/
