@@ -285,7 +285,27 @@ What is your favourite script in Impacket?
 
 # DAY 74
 
+This certification was on my roadmap for a while, and I finally checked it off ✅ 
+
+type secret.xml.txt 
+
+After preparing consistently over the past few weeks, I’m glad to share that I’ve earned the Certified Red Team Analyst (CRTA) certification from CyberWarFare Labs by successfully passing the 6-hour practical examination.
+
+Credential: https://lnkd.in/ez6jzfAv
+
+The certification validates skills around:
+- Red team methodologies
+- MITRE ATT&CK–aligned TTPs
+- Internal & external reconnaissance
+- Kerberos attacks in patched AD environments
+- Network segmentation bypass
+- Stealth pivoting and multi-OS lateral movement
 
 
+More than the certificate, the preparation reshaped how I approach red teaming. Understanding when to use certain techniques and how to move through an Active Directory environment strategically. 
+
+One more milestone in this journey❤️#3 in 2026
+
+Ready to bring this experience into a full-time Offensive Security, Penetration Testing, or Application Security role in the UK. If you are hiring i would love to connect. 
 
 # DAY 75
