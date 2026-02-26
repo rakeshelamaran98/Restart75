@@ -309,3 +309,22 @@ One more milestone in this journey❤️#3 in 2026
 Ready to bring this experience into a full-time Offensive Security, Penetration Testing, or Application Security role in the UK. If you are hiring i would love to connect. 
 
 # DAY 75
+
+If this is what 75 days of focused, self-driven growth looks like, I’m ready to bring that same focus into my first three months within the right organisation.
+
+Proud to have completed Restart75 Challenge. 
+
+Restart75 wasn’t about visibility. 
+It was about discipline during uncertainty.
+
+Rejections. Long nights. Self-doubt.
+
+I kept showing up.
+
+Not perfect. Not flawless. But consistent enough.
+
+Over 75 days, I sharpened my depth across Offensive, Defensive, and Governance domains - while continuing my job search in parallel.
+
+Check the Full Post on LinkedIn: https://www.linkedin.com/posts/rakeshelamaran_restart75-summary-activity-7432499364553469952-HeYc
+
+
